@@ -6,8 +6,8 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 
 - **HTML**: Criação de estrutura de páginas web semânticas e acessíveis.
 - **CSS**: Estilização e layout de páginas web, incluindo o uso de frameworks como Bootstrap e Flexbox/Grid.
-- **JavaScript**: Desenvolvimento de funcionalidades dinâmicas para sites e aplicações web, incluindo a manipulação de DOM e uso de frameworks/bibliotecas como React ou Vue.js.
-- **C#** (Aspirante): Estou aprendendo e desenvolvendo projetos em C#, explorando as possibilidades dessa linguagem poderosa.
+- **JavaScript**: Desenvolvimento de funcionalidades dinâmicas para sites e aplicações web
+- **C#**: Estou aprendendo e desenvolvendo projetos em C#, explorando as possibilidades dessa linguagem poderosa.
 
 ## Outras Habilidades e Ferramentas
 
