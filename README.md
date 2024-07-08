@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou [Arthur Parreiras]! 👋
 
-<!--
-**ArthurParreiras/ArthurParreiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Aqui estão algumas das tecnologias e ferramentas que domino:
 
-Here are some ideas to get you started:
+## Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML**: Criação de estrutura de páginas web semânticas e acessíveis.
+- **CSS**: Estilização e layout de páginas web, incluindo o uso de frameworks como Bootstrap e Flexbox/Grid.
+- **JavaScript**: Desenvolvimento de funcionalidades dinâmicas para sites e aplicações web, incluindo a manipulação de DOM e uso de frameworks/bibliotecas como React ou Vue.js.
+- **C#** (Aspirante): Estou aprendendo e desenvolvendo projetos em C#, explorando as possibilidades dessa linguagem poderosa.
+
+## Outras Habilidades e Ferramentas
+
+- **JSON**: Manipulação e uso de dados em formato JSON para comunicação entre aplicações e APIs.
+- **MySQL**: Conhecimento em banco de dados relacional, incluindo criação de tabelas, consultas e gerenciamento de dados.
+- **APIs**: Integração e consumo de APIs RESTful para construir aplicações web dinâmicas e interativas.
+
+## Projetos Recentes
+
+Aqui estão alguns dos projetos em que trabalhei recentemente:
+
+1. **[PuCarona]**: Descrição breve do projeto e tecnologias utilizadas.
+2. **[Nome do Projeto 2]**: Descrição breve do projeto e tecnologias utilizadas.
+3. **[Nome do Projeto 3]**: Descrição breve do projeto e tecnologias utilizadas.
+
+## Contato
+
+Se você quiser saber mais sobre mim ou discutir uma oportunidade de trabalho, sinta-se à vontade para entrar em contato:
+
+- **Email**: [martinsarthur031@gmail.com](mailto:martinsarthur031@gmail.com)
+- **LinkedIn**: [[Seu Perfil no LinkedIn]
