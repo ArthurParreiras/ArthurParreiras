@@ -15,14 +15,6 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 - **MySQL**: Conhecimento em banco de dados relacional, incluindo criação de tabelas, consultas e gerenciamento de dados.
 - **APIs**: Integração e consumo de APIs RESTful para construir aplicações web dinâmicas e interativas.
 
-## Projetos Recentes
-
-Aqui estão alguns dos projetos em que trabalhei recentemente:
-
-1. **[PuCarona]**: Descrição breve do projeto e tecnologias utilizadas.
-2. **[Nome do Projeto 2]**: Descrição breve do projeto e tecnologias utilizadas.
-3. **[Nome do Projeto 3]**: Descrição breve do projeto e tecnologias utilizadas.
-
 ## Contato
 
 Se você quiser saber mais sobre mim ou discutir uma oportunidade de trabalho, sinta-se à vontade para entrar em contato:
