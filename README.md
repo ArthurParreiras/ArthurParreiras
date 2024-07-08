@@ -1,4 +1,4 @@
-# Olá, eu sou [Arthur Parreiras]! 👋
+# Olá, eu sou Arthur Parreiras! 👋
 
 Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Aqui estão algumas das tecnologias e ferramentas que domino:
 
