@@ -18,7 +18,7 @@ Sou um desenvolvedor front-end apaixonado por inovação e . Aqui estão algumas
 
 ## Contato
 
-Se você quiser saber mais sobre mim ou discutir uma oportunidade de trabalho, sinta-se à vontade para entrar em contato:
+Se você quiser saber mais sobre mim, sinta-se à vontade para entrar em contato:
 
 - **Email**: [martinsarthur031@gmail.com](mailto:martinsarthur031@gmail.com)
 - **LinkedIn**: [Arthur Parreiras Lage Martins](https://www.linkedin.com/in/arthurparreiras/)
