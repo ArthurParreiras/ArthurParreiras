@@ -28,4 +28,4 @@ Aqui estão alguns dos projetos em que trabalhei recentemente:
 Se você quiser saber mais sobre mim ou discutir uma oportunidade de trabalho, sinta-se à vontade para entrar em contato:
 
 - **Email**: [martinsarthur031@gmail.com](mailto:martinsarthur031@gmail.com)
-- **LinkedIn**: [Arthur Parreiras Lage Martins]((https://www.linkedin.com/in/arthurparreiras/))
+- **LinkedIn**: [Arthur Parreiras Lage Martins](https://www.linkedin.com/in/arthurparreiras/)
