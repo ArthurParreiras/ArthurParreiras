@@ -1,6 +1,6 @@
 # Olá, eu sou Arthur Parreiras! 👋
 
-Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Aqui estão algumas das tecnologias e ferramentas que domino:
+Sou um desenvolvedor front-end apaixonado por inovação e . Aqui estão algumas das tecnologias e ferramentas que domino:
 
 ## Linguagens e Tecnologias
 
@@ -8,12 +8,13 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 - **CSS**: Estilização e layout de páginas web, incluindo o uso de frameworks como Bootstrap e Flexbox/Grid.
 - **JavaScript**: Desenvolvimento de funcionalidades dinâmicas para sites e aplicações web
 - **C#**: Estou aprendendo e desenvolvendo projetos em C#, explorando as possibilidades dessa linguagem poderosa.
+- **Frameworks**: Iniciando o aprendizado no uso frameworks/bibliotecas como React ou Vue.js.
 
 ## Outras Habilidades e Ferramentas
 
 - **JSON**: Manipulação e uso de dados em formato JSON para comunicação entre aplicações e APIs.
 - **MySQL**: Conhecimento em banco de dados relacional, incluindo criação de tabelas, consultas e gerenciamento de dados.
-- **APIs**: Integração e consumo de APIs RESTful para construir aplicações web dinâmicas e interativas.
+- **APIs**: Integração e consumo de APIs para construir aplicações web dinâmicas e interativas.
 
 ## Contato
 
